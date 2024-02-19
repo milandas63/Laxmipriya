@@ -1,0 +1,20 @@
++--------------------+
+| Monday, 19-02-2024 |
++--------------------+
+    =   HTML
+        >   HTML stands for Hyper Text Markup Language
+        >   HTML is a script created using elements
+        >   Elements are HTML reserve words embedded with angle brackets
+            Example: <html>...</html>
+                     <head>...</head>
+                     <body>...</body>
+        >   There are 2 types of elements:
+            1)  Terminator required elements
+            2)  Self terminated elements
+        >   Each element further contains attributes.
+            Example: <h1 align='center' style='color:blue;'>We are students of HTML</h1>
+        >   Elements are nested within each other in LIFO (Last In First Out) order.
+
+
+
+
