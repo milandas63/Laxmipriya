@@ -1,0 +1,119 @@
+Laxmipriya Sahoo
+
++--------------------+
+| Monday, 19-02-2024 |
++--------------------+
+    =   HTML
+        >   HTML stands for Hyper Text Markup Language
+        >   HTML is a script created using elements
+        >   Elements are HTML reserve words embedded with angle brackets
+            Example: <html>...</html>
+                     <head>...</head>
+                     <body>...</body>
+        >   There are 2 types of elements:
+            1)  Terminator required elements
+            2)  Self terminated elements
+        >   Each element further contains attributes.
+            Example: <h1 align='center' style='color:blue;'>We are students of HTML</h1>
+        >   Elements are nested within each other in LIFO (Last In First Out) order.
+
++-----------------------+
+| Wednesday, 21-02-2024 |
++-----------------------+
+    =   The TABLE element
+        The table element contains a set of sub-elements that controls the 
+        table design.
+        <table>
+            <caption>..</caption>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tfoot>
+        </table>
+
+    =   COLSPAN and ROWSPAN
+        3 ROWS & 11 COLS
+        +-------+---------------------------+------------+-------------------------------------------------+
+        |       |                           |            |                      AGE GROUP                  |
+        |       |                           |            +-----------+------------+------------+-----------+
+        |       |                           |            | >5 & <=10 | >10 & <=15 | >15 & <=20 |    >20    |
+        |       |                           |            +-----+-----+------+-----+------+-----+-----+-----+
+        |  SLNO |  CANDIDATE NAME           |     DOB    |  M  |  F  |   M  |  F  |   M  |  F  |  M  |  F  |
+        +-------+---------------------------+------------+-----+-----+------+-----+------+-----+-----+-----+
+            1    MILAN DAS                   
+
+
+    =   ASSIGNMENT:
+        +-------+-------------------------------+-----------------------------------------------------------------------------------------------------------+
+        |       |                               |                                           POPULATION                                                      |
+        |       |                               |-----------------------------------------------------+-----------------------------------------------------|
+        |       |                               |                           URBAN                     |                           RURAL                     |
+        |       |                               |--------------------------+--------------------------+--------------------------+--------------------------|
+        |       |                               |           MALE           |           FEMALE         |          MALE            |           FEMALE         |
+        |       |                               |-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----|
+        |  SLNO | NAME OF THE DISTRICT          | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 |
+        |-------+-------------------------------+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----|
+        |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+        |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+        |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+        |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+        |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+        |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+        |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+
+
++--------------------+
+| Friday, 23-02-2024 |
++--------------------+
+    =   Write a html script to display your resume.
+    =   HTML Links
+        Links are created with the help of <a>...</a>
+    =   List of websites that I visit everyday:
+        >   google
+        >   gmail
+        >   yahoo
+        >   github
+        >   greytHR
+        >   wikipedia
+    =   Create a customized HTML script to link the above websites
+
++--------------------+
+| Monday, 26-02-2024 |
++--------------------+
+    =   Link within the same page
+
++---------------------+
+| Tuesday, 27-02-2024 |
++---------------------+
+    =   FRAMESET
+        Frameset is an element that divides the body area of the internet browser into
+        rows and columns. When <frameset> is used, the <body> is not used.
+
+    =   
